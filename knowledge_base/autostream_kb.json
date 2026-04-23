@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "id": "pricing_basic",
+      "title": "Basic Plan Pricing and Features",
+      "content": "AutoStream Basic Plan costs $29 per month. It includes up to 10 videos per month with 720p resolution output. This plan is ideal for creators just starting out."
+    },
+    {
+      "id": "pricing_pro",
+      "title": "Pro Plan Pricing and Features",
+      "content": "AutoStream Pro Plan costs $79 per month. It includes unlimited videos, 4K resolution output, and AI-powered automatic captions. This plan is ideal for professional content creators who need high volume and quality."
+    },
+    {
+      "id": "pricing_comparison",
+      "title": "Plan Comparison",
+      "content": "AutoStream offers two plans: Basic at $29/month (10 videos, 720p) and Pro at $79/month (unlimited videos, 4K, AI captions). The Pro plan is the best choice for serious content creators needing scale and quality."
+    },
+    {
+      "id": "policy_refund",
+      "title": "Refund Policy",
+      "content": "AutoStream does not offer refunds after 7 days from the date of purchase. Refund requests must be submitted within the first 7 days of the billing cycle."
+    },
+    {
+      "id": "policy_support",
+      "title": "Customer Support Policy",
+      "content": "24/7 customer support is available exclusively on the Pro plan. Basic plan users have access to standard business-hours support only. Upgrading to Pro unlocks round-the-clock priority support."
+    },
+    {
+      "id": "product_overview",
+      "title": "AutoStream Product Overview",
+      "content": "AutoStream is a SaaS platform that provides automated video editing tools for content creators. It uses AI to automatically edit, caption, and enhance videos, saving creators hours of manual work. It supports popular platforms like YouTube, Instagram, TikTok, and more."
+    }
+  ]
+}
